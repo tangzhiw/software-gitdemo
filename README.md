@@ -44,8 +44,5 @@ Docker端口映射如下：
 
 已经挂载容器的`/app`目录到`client`和`server`，直接更新代码可触发Flask和React的热重载功能。
 
-## 项目运行界面
 
-![主要信息](./screenshots/0.png)
-![数据中心](./screenshots/1.png)
-![水下系统](./screenshots/2.png)
+
