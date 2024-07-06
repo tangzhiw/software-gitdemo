@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 // C4
+=======
+
+// B3
+>>>>>>> B3
 import React, { useState } from "react";
 import {
   TextField,
